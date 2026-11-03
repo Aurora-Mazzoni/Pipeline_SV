@@ -9,7 +9,7 @@ nota: mancano i seguenti file
 - reference.fa
 
 
-comando per lanciare: \\
+comando per lanciare: \\\
 nextflow run main.nf -profile local -resume
 
 
