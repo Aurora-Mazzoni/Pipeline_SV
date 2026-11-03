@@ -7,3 +7,7 @@ nota: mancano i seguenti file
 - segdups.bed
 - campione.bam e relativo bai (da specificare nel samplesheet)
 - reference.fa
+
+
+comando per lanciare: 
+nextflow run main.nf -profile local -resume
